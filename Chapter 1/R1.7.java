@@ -1,12 +1,14 @@
+
 // R1.7 What does this program print?
-public class Test
-{
-public static void main(String[] args)
-{
+public class Test {
+
+public static void main(String[] args) {
+
 System.out.println("39 + 3");
 System.out.println(39 + 3);
+  }
 }
-}
+
 /*
   Answer : 
 The first statement System.out.println("39 + 3");
